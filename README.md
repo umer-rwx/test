@@ -5,4 +5,4 @@ But I did learn how to use Markdown in 5 minutes from [this tutorial](www.markdo
 Markdown was... _easy_?
 ![surprised pikachu face][pikachu]
 
-[def]: https://wallpapercave.com/wp/wp5338276.jpg
+[pikachu]: https://wallpapercave.com/wp/wp5338276.jpg
